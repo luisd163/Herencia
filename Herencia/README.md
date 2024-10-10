@@ -1,11 +1,10 @@
 # herencia
 
-Descripciín basisca de su Proyecto de POO ...
+Sistema de gestión de empleados para practicar el uso de herencia
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Luis Daniel Gómez Vallejo (@luisd163)
 
 # Herramientas
 
